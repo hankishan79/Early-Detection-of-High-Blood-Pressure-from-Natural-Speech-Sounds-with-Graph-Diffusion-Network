@@ -6,17 +6,6 @@ This repository contains the code and resources for the study titled "Early Dete
 Table of Contents
 
 Abstract
-Introduction
-Installation
-Usage
-Data
-Model
-Results
-Contributing
-License
-Contact
-
-Abstract
 
 This study presents an innovative approach to cuffless blood pressure prediction by integrating speech and demographic features. Our model harnesses speech signals and demographic data to accurately estimate blood pressure, achieving exceptional performance with an R² score of 0.96 and a Pearson correlation coefficient of 0.98. The findings highlight the potential for early detection of high blood pressure using non-invasive, speech-based methods.
 
